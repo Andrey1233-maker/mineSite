@@ -1,0 +1,63 @@
+.addon_box{
+    box-sizing: border-box;
+
+    /* Auto layout */
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    
+    position: relative;
+    width: 360px;
+    
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 20px;
+    overflow: hidden; 
+}
+
+.image{
+    width: 360px;
+    height: 181px;
+
+}
+
+.addon_info{
+    padding: 10px;
+}
+
+.icon{
+    width: 24px;
+    height: 24px;
+}
+
+.like_count{
+    align-self: center;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    
+    color: #A61425;
+}
+
+.dislike_count{
+    align-self: center;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    color: #7DA614;
+}
+
+.grade{
+    text-align: end;
+}

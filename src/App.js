@@ -1,13 +1,11 @@
-import { Header } from './components/header/header';
-import { NavigationMenu } from './components/navigtionMenu/navigationMenu';
-
 import './App.css';
+import { AddonBox } from './components/addonBox/addonBox';
 
 
 function App() {
   return (
     <div>
-      <NavigationMenu/>
+      <AddonBox/>
     </div>
   )
 }
