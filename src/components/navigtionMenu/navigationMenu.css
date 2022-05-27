@@ -6,7 +6,7 @@
     padding: 0 20px;
     gap: 10px;
     
-    width: 130px;
+    width: max-content;
     height: 48px;
     
     background: #FF3D54;
@@ -28,7 +28,7 @@
     padding: 0 20px;
     gap: 10px;
 
-    width: 115px;
+    width: max-content;
     height: 48px;
 
     background: #FF94A1;
