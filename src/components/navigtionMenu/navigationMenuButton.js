@@ -1,4 +1,4 @@
-
+import './navigationMenu.css'
 
 export function NavigationMenuItem(props){
 
