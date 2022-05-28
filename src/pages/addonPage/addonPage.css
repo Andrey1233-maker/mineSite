@@ -1,0 +1,8 @@
+.free_space{
+    height: 32px;
+    margin: 10px 0 10px;
+}
+
+.row{
+    overflow-y:hidden;
+}
