@@ -1,11 +1,11 @@
 import './App.css';
-import { AddonBox } from './components/addonBox/addonBox';
+import { AddonRow } from './components/addonRow/addonRow';
 
 
 function App() {
   return (
     <div>
-      <AddonBox/>
+      <AddonRow title="Keke"/>
     </div>
   )
 }
